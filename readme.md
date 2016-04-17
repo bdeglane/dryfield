@@ -10,4 +10,4 @@ npm install
 
 ## Démo
 
-[Demo](https://bdeglane.github.io/e-snake-6/ "demo")
+[Demo](https://bdeglane.github.io/dryfield/ "demo")
